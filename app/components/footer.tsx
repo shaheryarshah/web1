@@ -7,9 +7,9 @@ export default function Footer (){
             </h1>
             <h2>
                 <ul className="flex gap-x-20">
-                <li className="text-blcak-500"><Link href="https://www.facebook.com/">facebook</Link>
+              
                    
-                    </li>
+                    
                     <li>
                     <Link href="https://www.instagram.com/">instagram</Link>
                     </li>
